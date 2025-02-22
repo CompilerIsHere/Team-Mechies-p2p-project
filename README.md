@@ -1,4 +1,4 @@
-# Network Node Communication System
+# Team-Mechies-p2p-project
 
 ## Team Members
 - **Saksham Gautam** (Roll No: 230003065)
@@ -57,9 +57,5 @@ Our implementation **does handle** the bonus question by ensuring that the node 
 - Ensure that firewalls and network configurations allow communication on the specified ports.
 - The program should be terminated gracefully using the `exit` command or `Ctrl+C` to prevent connection issues.
 
-## License
-This project is for academic purposes only. Unauthorized distribution is not allowed.
 
----
-For any issues, contact us via email or university channels.
 
