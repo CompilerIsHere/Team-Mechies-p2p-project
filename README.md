@@ -57,5 +57,7 @@ Our implementation **does handle** the bonus question by ensuring that the node 
 - Ensure that firewalls and network configurations allow communication on the specified ports.
 - The program should be terminated gracefully using the `exit` command or `Ctrl+C` to prevent connection issues.
 
+![Chodu CID](image.png)
+
 
 
