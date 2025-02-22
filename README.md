@@ -2,9 +2,9 @@
 
 ## Team Members
 - **Saksham Gautam** (Roll No: 230003065)
-- **[Ishaan Sammi]** (Roll No: 230003027)
-- **[Harsh Anand]** (Roll No: 230005016)
-- **[Rohit Ranjan]** (Roll No: 230003059)
+- **Ishaan Sammi** (Roll No: 230003027)
+- **Harsh Anand** (Roll No: 230005016)
+- **Rohit Ranjan** (Roll No: 230003059)
 
 ## Project Overview
 This project implements a network node that can:
